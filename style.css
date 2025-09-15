@@ -33,9 +33,13 @@
 
 }
 
+.fordabian{
+  font-size: 2px;
+}
+
 .lake {
 
-  display: inline;
+  display: block;
   width: 50vw;
   height: 60vw;
   margin-left: auto;
@@ -63,7 +67,7 @@
 }
 
 .mrhenriques{
-    display: inline;
+    display: block;
   width: 50vw;
   height: 70vw;
   margin-left: auto;
