@@ -34,8 +34,43 @@
 }
 
 .lake {
-  text-align: center;
+
+  display: inline;
+  width: 50vw;
+  height: 60vw;
+  margin-left: auto;
+  margin-right: auto;
+
 
 }
 
+.price1 {
+  text-align: center;
+  font-size: 60px;
+}
 
+.vroom {
+  display: block;
+  width: 50vw;
+  height: 60vw;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.price2{
+    text-align: center;
+  font-size: 60px;
+}
+
+.mrhenriques{
+    display: inline;
+  width: 50vw;
+  height: 70vw;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.price3{
+    text-align: center;
+  font-size: 80px;
+}
