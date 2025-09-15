@@ -34,7 +34,8 @@
 }
 
 .fordabian{
-  font-size: 2px;
+  font-size: 10px;
+  text-align: center;
 }
 
 .lake {
@@ -74,7 +75,7 @@
   margin-right: auto;
 }
 
-.price3{
-    text-align: center;
+ #price3 {
+  text-align: center;
   font-size: 80px;
 }
